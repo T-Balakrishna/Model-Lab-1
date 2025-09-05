@@ -18,7 +18,7 @@ function ToDo() {
 
   return (
     <>
-        <h1>TO DO LIST</h1>
+        <h1>TO DO LISTS</h1>
         
         <p>{task}</p>
         <form action="" onSubmit={addTask}>
